@@ -1,4 +1,6 @@
 require 'active_model'
+require 'active_support'
+require 'active_support/core_ext/array/wrap'
 
 module ActiveModel
 
