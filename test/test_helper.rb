@@ -4,4 +4,4 @@ Bundler.setup(:default)
 
 require 'activemodel-warnings'
 require 'minitest/autorun'
-require 'mocha'
+require 'mocha/setup'
